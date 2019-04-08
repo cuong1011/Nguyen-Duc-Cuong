@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Weather</string>
+    <string name="api_key">05dab36db00d455448c0b83ceaeb67d7</string>
+    <string name="volley">implementation "com.android.volley:volley:1.0.0"</string>
+    <string name="piccasso">implementation "com.squareup.picasso:picasso:2.5.2"</string>
+
+
+</resources>
